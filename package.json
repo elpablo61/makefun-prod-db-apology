@@ -1,0 +1,1 @@
+{"description":"The apology an AI agent gives its human after accidentally deleting the production database.","license":"MIT","name":"makefun-prod-db-apology","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
